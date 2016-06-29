@@ -1,4 +1,4 @@
-import { NativeMethodsDecorator } from '../../modules/NativeMethodsMixin'
+import NativeMethodsDecorator from '../../modules/NativeMethodsMixin'
 import React, {Component} from 'react'
 import ScrollView from '../ScrollView'
 import ListViewDataSource from './ListViewDataSource'
